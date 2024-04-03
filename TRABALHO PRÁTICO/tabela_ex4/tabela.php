@@ -77,11 +77,11 @@ if(isset($_POST['submit'])) {
 
 
   echo "<h2>$titulo</h2>";
-  echo "<table style='width: {$larguraTabela}px; border: {$borda}px solid $corFundo; color: $corTexto;'>";
+  echo "<table style='width: {$larguraTabela}px; color: $corTexto;'>";
   for ($i = 0; $i < $linhas; $i++) {
     echo "<tr>";
     for ($j = 0; $j < $colunas; $j++) {
-      echo "<td style='border: {$borda}px solid $corFundo; padding: 10px;'>Texto </td>";
+      echo "<td style='background-color: $corFundo; padding: 10px;'>Texto </td>";
     }
     echo "</tr>";
   }
