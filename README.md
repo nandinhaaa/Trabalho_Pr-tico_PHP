@@ -1,4 +1,4 @@
-## Trabalho prático 
+## Trabalho prático PHP
 QUESTÃO 1: ![image](https://github.com/nandinhaaa/Trabalho_Pr-tico_PHP/assets/91507393/0db62528-9647-4493-a896-48143c281204)
 
 QUESTÃO 2: ![image](https://github.com/nandinhaaa/Trabalho_Pr-tico_PHP/assets/91507393/ad4ae359-52c5-4ade-a076-6874cf66b51f)
@@ -9,11 +9,11 @@ QUESTÃO 4: ![image](https://github.com/nandinhaaa/Trabalho_Pr-tico_PHP/assets/9
 
 QUESTÃO 5: ![image](https://github.com/nandinhaaa/Trabalho_Pr-tico_PHP/assets/91507393/55e960b7-a82a-4095-803b-364b1155be59)
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas: 
 - **HTML/CSS:** Estrutura e estilo da página.
 - **PHP:** Lógica 
 
-## Desenvolvido Por
+## Desenvolvido Por: 
 
  [Amanda](https://github.com/amxanda) 💛!
 
